@@ -19,3 +19,7 @@ Après deux années de réorganisations internes, tant au niveau du personnel qu
 ## Cahier des charges
 
 [Aller au cahier des charges](cahier_des_charges/cdc.md)
+
+## Rapport de suivi
+
+[Ce qui est attendu pour chaque rapport de suivi de projet](rapport/rapport.md)
