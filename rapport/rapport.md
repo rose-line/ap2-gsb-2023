@@ -57,7 +57,7 @@ Si vous choisissez la forme PDF, le fichier devra être présent dans votre dép
 
 ### Rapport hébergé sur le web (forme préférée)
 
-On préférera héberger le rapport sur le web. Une valeur sûre est l'hébergement sur le dépôt du projet grâce à _Github Pages_ ou au _Github Wiki_ de votre projet. Utilisez alors Markdown pour structurer votre rapport, et insérer des liens markdown vers les images, les autres pages, les documents annexes...
+On préférera héberger le rapport sur le web. Une valeur sûre est l'hébergement sur le dépôt du projet grâce à _Github Pages_ ou au _Github Wiki_ de votre projet. Utilisez alors Markdown pour structurer votre rapport, et insérer des liens markdown vers les images, les autres pages, les documents annexes... Le fichier README.md, à la racine de votre dépôt, contiendra un lien vers votre page principale de rapport.
 
 ## Annexes
 
